@@ -10,6 +10,7 @@
 >
 > Full audit reports are available in [the `audits/` folder](./audits).
 
+> 📖 **Language**: [简体中文版 (Simplified Chinese guide for students)](./README.zh-CN.md)
 
 ## Table of Contents
 1. [Summary](#summary)
